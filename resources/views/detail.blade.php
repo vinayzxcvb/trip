@@ -14,7 +14,7 @@
 
     <style>
         .swiper {
-            width: 100%;
+            width: 100%; 
             height: 200px;
         }
     </style>
